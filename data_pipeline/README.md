@@ -182,3 +182,6 @@ data_pipeline/
 │   ├── queries.sql
 │   └── query_outputs.md
 └── README.md
+## Git Validation
+
+Module 1 work was validated on a dedicated feature branch before merging back into the main branch.
